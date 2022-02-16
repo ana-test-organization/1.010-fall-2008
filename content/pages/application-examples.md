@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: Application Examples
-type: CourseSection
 uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 ---
 

@@ -5,10 +5,10 @@ file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-010-uncertainty-in
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Brief Notes #8'
-type: OCWFile
 uid: a53f4d78-7c75-8a4a-f86c-14bd78cf1f2a
 ---

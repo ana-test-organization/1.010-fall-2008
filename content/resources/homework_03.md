@@ -5,10 +5,10 @@ file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-010-uncertainty-in
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework Set #3'
-type: OCWFile
 uid: b72e316b-3632-19f5-4fb0-270c86984343
 ---

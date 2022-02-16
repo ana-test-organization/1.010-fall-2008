@@ -5,10 +5,10 @@ file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-010-uncertainty-in
 file_type: application/pdf
 learning_resource_types:
 - Exams
+ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 'Mini-Quiz #4'
-type: OCWFile
 uid: da215184-3b9d-f9c1-972d-eab0499662f6
 ---
